@@ -15,17 +15,17 @@
                         <nav class="it-menu-content">
                            <ul>
                               <li class=" p-static">
-                                 <a href="index.html">Home</a>
+                                 <a href="index.php">Home</a>
                               </li>
                               <li >
-                                 <a href="about-us-v1.html">About Us</a>
+                                 <a href="about-us-v2.html">About Us</a>
                                  
                               </li>
                               <li>
-                                 <a href="service-v2.html">Services</a>
+                                 <a href="service-v2.php">Services</a>
                               </li>
                               <li>
-                                 <a href="contact.html">Contact</a>
+                                 <a href="contact.php">Contact</a>
                               </li>
                            </ul>
                         </nav>
