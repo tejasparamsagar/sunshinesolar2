@@ -18,7 +18,7 @@
                                  <a href="index.php">Home</a>
                               </li>
                               <li >
-                                 <a href="about-us-v2.html">About Us</a>
+                                 <a href="about-us-v2.php">About Us</a>
                                  
                               </li>
                               <li>
