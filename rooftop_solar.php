@@ -331,7 +331,12 @@
                         </div>
                      </div>
                      
-                     <blockquote class="postbox-blockquote z-index-1 text-center mt-60">
+                    
+                     <!-- faq-area-end -->
+                  </div>
+               </div>
+            </div>
+             <blockquote class="postbox-blockquote z-index-1 text-center mt-60">
                         <p>Wine … offers a greater range for enjoyment and appreciation than <br> possibly any other purely sensory thing which may be purchase</p>  
                         <strong>Ernest Hemingway</strong>   
                         <span>Director of Operations, EnergyCore Ltd.</span>   
@@ -342,7 +347,7 @@
                         </span>                   
                      </blockquote>
                      <!-- step-area-start -->           
-                      <div class="it-step-area mb-50">
+                      <div class="it-step-area mb-50 ">
                          <div class="row">                           
                              <div class="col-xl-6 col-lg-6">
                                 <div class="it-step-wrap">
@@ -386,9 +391,9 @@
                                    </div>  
                                 </div>
                              </div>
-                             <div class="col-xl-6 col-lg-6">
-                                <div class="it-step-thumb border-radius-20">
-                                   <img src="assets/img/service/details-3.jpg" alt="">
+                             <div class="col-xl-6 col-lg-6 ">
+                                <div class="it-step-thumb border-radius-20 d-flex justify-content-between">
+                                   <img src="assets/img/service/details-3.jpg" class="w-100 h-mx-auto" alt="" style="height:570px;">
                                 </div>
                              </div>
                           </div>
@@ -483,10 +488,6 @@
                            </div>
                         </div>
                      </div>
-                     <!-- faq-area-end -->
-                  </div>
-               </div>
-            </div>
          </div>
       </section>
       <!-- service-area-end -->
