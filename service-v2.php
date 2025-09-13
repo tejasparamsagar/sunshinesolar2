@@ -68,7 +68,7 @@
          </div>
          <div class="itoffcanvas__logo">
             <a href="index.html">
-               <img src="assets/img/logo/logo-white.png" alt="">
+               <img src="assets/img/logo/logo-black.png" alt="">
             </a>
          </div>
          <div class="itoffcanvas__text">
@@ -133,7 +133,7 @@
                <div class="col-xxl-5 col-xl-6 col-lg-6 col-md-5">
                   <div class="it-breadcrumb-content">
                      <div class="it-breadcrumb-title-box">
-                        <h3 class="it-breadcrumb-title it-split-text it-split-in-right">Services - 02</h3>
+                        <h3 class="it-breadcrumb-title it-split-text it-split-in-right">Services</h3>
                      </div>
                      <div class="it-breadcrumb-list-wrap">
                         <div class="it-breadcrumb-list">
@@ -172,7 +172,7 @@
                         <path d="M41.1631 0.249023C41.1629 22.6005 23.043 40.7197 0.691406 40.7197H0.0263672V0H41.1602C41.1607 0.0828278 41.1631 0.166078 41.1631 0.249023Z" fill="currentcolor"/>
                         </svg>
                      </span>
-                     <h4 class="it-service-3-title mb-15"><a class="border-line" href="service-details.html">Rooftop Solar Solutions</a></h4>
+                     <h4 class="it-service-3-title mb-15"><a class="border-line" href="rooftop_solar.php">Rooftop Solar Solutions</a></h4>
                      <p>Efficient rooftop solar panels built for long-term performance and eco-friendly <br> living.</p>
                      <a class="it-service-3-link border-line" href="service-details.html">
                         More Details
@@ -375,43 +375,118 @@
                <div class="col-12">
                   <div class="it-brand-content mb-55">
                      <div class="text-center">
-                        <span>Trusted By 500+ Companies</span>
+                        <span>Sourcing From The Best Worldwide</span>
                      </div>
                   </div>
                </div>
             </div>
             <div class="row gx-0">
-               <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
-                  <div class="it-brand-item">
-                     <img src="assets/img/brand/brand-1-1.png" alt="">
-                  </div>
-               </div>
-               <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
-                  <div class="it-brand-item">
-                     <img src="assets/img/brand/brand-1-2.png" alt="">
-                  </div>
-               </div>
-               <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
-                  <div class="it-brand-item">
-                     <img src="assets/img/brand/brand-1-3.png" alt="">
-                  </div>
-               </div>
-               <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
-                  <div class="it-brand-item">
-                     <img src="assets/img/brand/brand-1-4.png" alt="">
-                  </div>
-               </div>
-               <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
-                  <div class="it-brand-item">
-                     <img src="assets/img/brand/brand-1-5.png" alt="">
-                  </div>
-               </div>
-               <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
-                  <div class="it-brand-item">
-                     <img src="assets/img/brand/brand-1-6.png" alt="">
-                  </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/Vikram_Solar.png" alt="">
                </div>
             </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/Adani.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/waaree.jpeg" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/Trina_Solar.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/Longi_solar.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/Jinko_Solar.png" alt="">
+               </div>
+            </div>
+             <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/Goldi-Solar.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/sun-grow.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/ABB_log.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/growatt.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/Sofar-solar.jpeg" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/delta.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/Ksolare.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/solis.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/polycab.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/siemens.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/lappKabel.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/jhonson.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/Laser.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/chint.png" alt="">
+               </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-4 col-6 col-sm-4">
+               <div class="it-brand-item">
+                  <img src="assets/img/brand/schneider.png" alt="">
+               </div>
+            </div>
+         </div>
          </div>
       </div> 
       <!-- brand-area-end -->

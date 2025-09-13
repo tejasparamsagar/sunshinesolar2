@@ -7,7 +7,7 @@
                      data-wow-delay=".3s">
                      <div class="it-footer-widget it-footer-col-4-1">
                         <div class="it-footer-widget-logo mb-20">
-                           <a href="index-2.html"><img src="assets/img/logo/logo-white3.png" alt=""></a>
+                           <a href="index-2.html"><img src="assets/img/logo/logo-white.png" alt=""></a>
                         </div>
                         <div class="it-footer-widget-text">
                            <p>There are many variations of passages<br> of Lorem Ipsum available, but the majority<br>have suffered in some form, by injected</p>
@@ -31,7 +31,6 @@
                               <li><a href="#">Home</a></li>
                               <li><a href="#">About Us</a></li>
                               <li><a href="#">Services</a></li>
-                              <li><a href="#">Career</a></li>
                               <li><a href="#">Contact us</a></li>
                            </ul>
                         </div>
